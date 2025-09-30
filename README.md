@@ -6,13 +6,13 @@ We explored, processed, and modeled real-world data using multiple algorithms, e
 
 
 
-## 🎯 Project Goal
+# Project Goal
 To build and evaluate machine learning models that can predict outcomes based on input data.  
 (*e.g. customer churn, student performance, housing prices*)
 
 
 
-## 🧠 Key Steps
+# Key Steps
 - **EDA:** data visualization, correlation analysis  
 - **Preprocessing:** handling missing values, encoding categorical features, scaling  
 - **Modeling:** Random Forest, Gradient Boosting, AdaBoost  
@@ -21,25 +21,25 @@ To build and evaluate machine learning models that can predict outcomes based on
 - **Interpretability:** SHAP and LIME explanations  
 
 
-## 🛠️ Tech Stack
+# Tech Stack
 - **Python**, **Pandas**, **NumPy**, **Scikit-learn**, **Matplotlib**, **SHAP**, **LIME**  
 - **Tools:** Jupyter Notebook, Git, VS Code
 
 
 
-## 📈 Results
+# Results
 - Built and compared multiple models with strong predictive performance  
 - Identified key features using SHAP values  
 - Provided insights and recommendations based on model interpretation
 
 
-## 👥 Team Contribution
+# Team Contribution
 - Worked on **data preprocessing**, **model training**, and **result interpretation**
 - Contributed to feature engineering and hyperparameter tuning
 
 
 
-## 🚀 Next Steps
+# Next Steps
 - Try additional models (XGBoost, CatBoost)  
 - Deploy the model with Streamlit
 
